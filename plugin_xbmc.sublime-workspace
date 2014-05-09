@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"params['image"
+			],
+			[
+				"extr",
+				"extractLinks"
+			],
+			[
+				"ext",
+				"extractTitle"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"rqu",
+				"requestText"
+			],
+			[
+				"reuq",
+				"requestText"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ex",
+				"extractLinks"
+			],
+			[
+				"vid",
+				"videoLink"
+			],
+			[
+				"build",
+				"buildCategories"
+			],
+			[
+				"buil",
+				"buildPlay"
+			],
+			[
+				"ad",
+				"logAddon  (function)"
+			],
+			[
+				"input",
+				"inputParams"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"link",
+				"link"
+			],
+			[
+				"vide",
+				"video"
+			],
+			[
+				"title",
+				"titleTemp"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"abc",
+				"abc123"
+			],
+			[
+				"spli",
+				"splitParameters"
+			],
+			[
+				"xbmc",
+				"xbmcgui"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"play",
+				"playVideo"
+			],
+			[
+				"start",
+				"start	(local, instance)"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"urllib",
+				"urllib2"
+			],
+			[
+				"ress",
+				"response"
+			],
+			[
+				"valu",
+				"value	(local, instance)"
+			],
+			[
+				"unqu",
+				"unquote_plus(s)	(imported, function)"
+			],
+			[
+				"unq",
+				"unquote(s)	(imported, function)"
+			],
+			[
+				"sli",
+				"splitParameters"
+			],
+			[
+				"list",
+				"listItem	(local, instance)"
+			],
+			[
+				"setI",
+				"setInfo(type, infoLabels)	(attribute, function)"
+			],
+			[
+				"thum",
+				"thumbnailImage=	(parameter_keyword, instance)"
+			],
+			[
+				"bas",
+				"baseUrl"
+			],
+			[
+				"LO",
+				"LOGERROR	(imported, instance)"
+			],
+			[
+				"unqo",
+				"unquote_plus(s)	(imported, function)"
+			],
+			[
+				"inpu",
+				"inputString"
+			],
+			[
+				"star",
+				"startText"
+			],
+			[
+				"qu",
+				"quote_plus"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.fptplay.tvshow/test.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.fptplay.tvshow/util.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.fptplay.tvshow/default.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.fptplay/default.py",
+		"/D/Working/Addon/plugin.video.fptplay.tvshow/util.py",
+		"/D/Working/Addon/plugin.video.fptplay.tvshow/test.py",
+		"/D/Working/Addon/plugin.video.fptplay.tvshow/default.py",
+		"/C/Users/Administrator/Desktop/Login/Test.py",
+		"/C/Users/Administrator/Desktop/Login/loginHDviet.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.fptplay/test.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.fptplay/util.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/skin.a.conful/1080p/Home.xml",
+		"/C/Users/Administrator/Downloads/loginFpay.py",
+		"/C/Users/Administrator/Downloads/weblogin.py",
+		"/C/Users/Administrator/Downloads/gethtml.py",
+		"/C/Users/Administrator/Dropbox/loginweb/weblogin.py",
+		"/C/Users/Administrator/Downloads/weblogin_2.py",
+		"/C/Users/Administrator/Desktop/test.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/skin.a.conful/1080p/ViewsVideoLibrary.xml",
+		"/C/Program Files (x86)/XBMC/addons/skin.confluence/720p/ViewsVideoLibrary.xml",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.p2p-streams/acecore.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.p2p-streams/default.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.france24.fr/default.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.fptplay/plugin_xbmc.sublime-project",
+		"/D/Working/Temp/test/demo01.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.canalalgerie/default.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.canalalgerie/util.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.france24.fr/util.py",
+		"/D/Working/Python/plugin.video.fptplay/util.py",
+		"/D/Working/Python/plugin.video.fptplay/default.py",
+		"/D/Working/Python/plugin.video.fptplay/test.py",
+		"/D/Working/Python/plugin.video.fptplay/plugin_xbmc.sublime-project",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimePython.sublime-settings",
+		"/D/Working/Python/plugin.video.canalalgerie_new/plugin_xbmc.sublime-project",
+		"/C/Users/Administrator/Desktop/plugin.video.canalalgerie/default.py",
+		"/C/Users/Administrator/Desktop/plugin.video.canalalgerie/util.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/C/Addon XBMC/DemoTV.xml",
+		"/D/Source/xbmcstubs/xbmc.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.youtube/YouTubeNavigation.py",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/plugin.video.live.streams/default.py",
+		"/C/Users/Administrator/Dropbox/LiveTV.xml",
+		"/C/Users/Administrator/Dropbox/DemoTV.xml",
+		"/C/Users/Administrator/AppData/Roaming/XBMC/addons/skin.a.conful/1080p/ViewsFileMode.xml",
+		"/C/Addon XBMC/LiveTV.xml",
+		"/C/Addon XBMC/TV.xml",
+		"/C/Users/Administrator/Desktop/LiveTV.xml",
+		"/C/Users/Administrator/Desktop/DemoTV.xml",
+		"/C/Users/Administrator/Desktop/DemoTV"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mypassword",
+			"myusername",
+			"luka.bimbim",
+			"Thông tin Mật khẩu cần được nhập",
+			"mode",
+			"link",
+			"argv",
+			"    \n",
+			"xbmcpluin",
+			"source_file",
+			"SKINDEFAULT",
+			"playlist",
+			"Error",
+			"playlist",
+			"addon_log",
+			"12",
+			"url",
+			"12",
+			"url",
+			"get_params",
+			"xbmc",
+			"14",
+			"ScrollBarNib.png",
+			"executebuiltin",
+			"xbmc.",
+			"Player",
+			"playoffset",
+			"windowed",
+			"PlayList",
+			"13",
+			"play_play",
+			"13",
+			"play_playlist",
+			"playMedia",
+			"Play",
+			"fpt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"password",
+			"username",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 157.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "plugin_xbmc.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
